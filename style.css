@@ -1,0 +1,47 @@
+body{
+    background:#FFFFFF;
+}
+
+#titulo-principal {
+    text-align: center;
+    font-size: 50px;
+    color:#CDF5FD;
+    background-color:#3876BF;
+}
+
+.cabecalho {
+    padding: 20px;
+    background-color: #E0F4FF;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+#cabecalho { 
+    width: 100%;
+}
+
+.teoria{
+    padding: 20px;
+}
+
+#subtitulo {
+    font-size: 30px;
+    color:#3876BF;
+}
+
+.texto {
+    font-size: 20px;
+    color: #3876BF;
+}
+ 
+em strong{
+    color:#132043;
+}
+
+#img.emp{
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    padding: 5px;
+}
